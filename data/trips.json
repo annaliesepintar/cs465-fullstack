@@ -1,14 +1,29 @@
 [
     {
+        "code" : "GALR210214",
         "name" : "Gale Reef",
+        "length" : "4 nights / 5 days",
+        "start" : "2021-02-14T08:00:00Z",
+        "resort" : "Emerald Bay, 3 stars",
+        "perPerson" : "799.00",
         "image" : "reef1.jpg",
         "description" : "<p>Gale Reef Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit mattis justo vehicula lacinia cubilia integer. Elementum rutrum dolor luctus arcu morbi penatibus vivamus congue a? Porta in varius ac interdum lobortis class maximus nascetur felis. Ligula id eros amet tincidunt sapien. Ultricies ridiculus enim pulvinar vel porta. Fames at feugiat a aenean; litora lacus volutpat? Congue aptent massa vel, congue sodales mi. <br> Mi commodo viverra senectus est primis pretium tempor nisl. Diam congue tincidunt semper donec rhoncus taciti. Lacinia nascetur enim proin tempor sodales. Morbi litora justo aliquet nostra aliquam. Donec quisque fringilla conubia congue consectetur. Pulvinar pharetra eu purus aliquet sollicitudin metus accumsan nulla. Metus aliquet molestie non parturient tellus ac fermentum tristique consectetur.</p>"
     } , {
+        "code" : "DAWR210315",
         "name" : "Dawson's Reef",
+        "length" : "4 nights / 5 days",
+        "start" : "2021-03-15T08:00:00Z",
+        "resort" : "Blue Lagoon, 4 stars",
+        "perPerson" : "1199.00",
         "image" : "reef2.jpg",
         "description" : "<p>Dawson's Reef Lorem ipsum odor amet, consectetuer adipiscing elit. Morbi facilisi hac tempus nec euismod senectus posuere scelerisque taciti. Suscipit donec finibus molestie suspendisse fringilla integer montes mus. Tempus taciti eros eros dui elit. Ridiculus molestie fermentum nunc litora metus pretium. Habitant pretium adipiscing class primis viverra orci dignissim imperdiet. Pretium metus vestibulum velit tortor hendrerit. Semper aenean vel; gravida praesent quam amet. <br> Sapien sit fusce ullamcorper per litora. Nec euismod erat natoque, est iaculis sit. Primis conubia netus donec convallis sapien molestie magna vel libero. Felis lobortis nisi, in viverra dignissim vel suscipit? Adipiscing dictumst sodales, praesent lobortis finibus praesent quam ultricies. Torquent tellus vel gravida vitae torquent. Sapien congue taciti lacus id molestie per proin quis vivamus.</p>"
     } , {
+        "code" : "CLAR210621",
         "name" : "Claire's Reef",
+        "length" : "4 nights / 5 days",
+        "start" : "2021-06-21T08:00:00Z",
+        "resort" : "Coral Sands, 5 stars",
+        "perPerson" : "1999.00",
         "image" : "reef3.jpg",
         "description" : "<p>Claire's Reef Lorem ipsum odor amet, consectetuer adipiscing elit. Conubia velit enim nibh vivamus bibendum tempor. Cras ac torquent duis sapien tortor platea. Conubia hac turpis aliquam, iaculis pretium condimentum. Hac auctor dapibus finibus eleifend, vestibulum non gravida. Mi in leo id ad platea varius vitae curabitur. Aviverra diam condimentum eleifend laoreet eu sagittis condimentum. Massa faucibus posuere, proin fusce dui adipiscing. Turpis dignissim sodales hac pulvinar iaculis eros hac lacinia enim. <br> Porta non mi habitant metus pulvinar. Proin molestie iaculis imperdiet turpis ornare luctus efficitur. Consequat risus viverra hendrerit facilisis velit vulputate et primis. Malesuada feugiat molestie magnis curae, praesent sit feugiat himenaeos. Risus penatibus curabitur, scelerisque mi urna natoque sed justo. Vulputate sit nibh rhoncus aenean augue, in faucibus sollicitudin. Taciti quam fusce urna nunc aliquam a. Auctor vitae luctus montes ac, ridiculus iaculis neque. Pellentesque odio magnis conubia pharetra est dignissim conubia fusce mus. Porttitor potenti in tellus praesent suscipit felis?</p>"
     }
