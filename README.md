@@ -7,8 +7,7 @@ CS-465 Full Stack Development with MEAN
 
 
 ## Functionality
-### How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
-Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+### How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces? Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
 
 
 ## Testing
