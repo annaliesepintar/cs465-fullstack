@@ -1,26 +1,60 @@
 <div id="footer">
     <div>
         <ul class="navigation">
+            {{#if home}}
+            <li class = "active">
+            {{else}}
             <li>
-                <a href="index.html">Home</a>
+            {{/if}}    
+                <a href="/">Home</a>
             </li>
+
+            {{#if travel}}
             <li class="active">
-                <a href=“travel.html">Travel</a>
-            </li>
+            {{else}}
             <li>
-                <a href="rooms.html">Rooms</a>
+            {{/if}}
+                <a href="/travel">Travel</a>
             </li>
+
+            {{#if rooms}}
+            <li class = "active">
+            {{else}}
             <li>
-                <a href=“meals.html">Meals</a>
+            {{/if}}
+                <a href="/rooms">Rooms</a>
             </li>
+
+            {{#if meals}}
+            <li class = "active">
+            {{else}}
             <li>
-                <a href="news.html">News</a>
+            {{/if}}
+                <a href="/meals">Meals</a>
             </li>
+
+            {{#if news}}
+            <li class = "active">
+            {{else}}
             <li>
-                <a href="about.html">About</a>
+            {{/if}}
+                <a href="/news">News</a>
             </li>
+
+            {{#if about}}
+            <li class = "active">
+            {{else}}
             <li>
-                <a href="contact.html">Contact</a>
+            {{/if}}
+                <a href="/about">About</a>
+            </li>
+
+            {{#if contact}}
+            <li class = "active">
+            {{else}}
+            <li>
+            {{/if}}
+                <a href="/contact">Contact</a>
             </li>
         </ul>
         <div id="connect">
